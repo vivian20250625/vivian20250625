@@ -63,4 +63,4 @@ Telegram频道传送门：精选优质Telegram频道推荐，涵盖热点追踪�
 
 黑料大事记以时间线方式梳理重大娱乐事件始末，深入剖析背后逻辑与舆论走向，帮助用户系统回顾娱乐圈风云变幻，是吃瓜历史的可视化档案。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivian20250625/vivian20250625）</span>
